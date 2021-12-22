@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name" translatable="false">ivApp</string>
+    <string name="b_sign_in">SIGN IN</string>
+    <string name="b_sign_up">SIGN UP</string>
+    <string name="tv_welcome">Welcome to ivApp!</string>
+    <string name="tv_username">Username:</string>
+    <string name="tv_password">Password:</string>
+    <string name="et_username">Enter your username...</string>
+    <string name="et_password">Enter your password...</string>
+    <string name="tv_name">Your Name:</string>
+    <string name="et_name">Enter Your Name...</string>
+    <string name="tv_surname">Your Surname:</string>
+    <string name="et_surname">Enter the Surname...</string>
+    <string name="tv_age">Your Age:</string>
+    <string name="et_age">Enter Your Age...</string>
+    <string name="tv_profile_photo">Profile Photo:</string>
+    <string name="b_add_photo">ADD PHOTO</string>
+    <string name="sign_up_successfully">Sign Up Successfully</string>
+    <string name="sign_up_error">You must enter your username and password</string>
+    <string name="sign_in_successfully">Sign In Successfully</string>
+    <string name="b_sign_out">SIGN OUT</string>
+    <string name="welcome">Welcome</string>
+    <string name="tv_offer_company_name">Company Name:</string>
+    <string name="tv_show_offer_price">Offer Price:</string>
+    <string name="b_offer_accept">ACCEPT</string>
+    <string name="tv_show_usuable_coin">Usuable ivPara:</string>
+    <string name="tv_account_device">Your Device:</string>
+    <string name="b_add_device">Add Device</string>
+    <string name="b_add_offer">Add Offer</string>
+    <string name="et_offer_company_name">Enter the Company Name...</string>
+    <string name="tv_offer_description">Offer:</string>
+    <string name="et_offer">Enter the Offer...</string>
+    <string name="tv_offer_price">Offer Price:</string>
+    <string name="et_offer_price">Enter Offer Price...</string>
+    <string name="tv_offer_code">Offer Code:</string>
+    <string name="et_offer_code">Enter Offer Code...</string>
+    <string name="offer_added_successfully">Offer Added Successfully</string>
+    <string name="sign_in_failed">You Entered Your Username or Your Password.</string>
+    <string name="sign_in_automatically">Please Wait. You Are Logging In.</string>
+    <string name="triggered">Triggered</string>
+    <string name="get_offer_successfully">Your offer code has been sent via notification</string>
+    <string name="offer_notification_header">Your code is here!</string>
+    <string name="offer_notification">Your code:</string>
+    <string name="tv_offer_failed">Your ivpara is not enought.</string>
+</resources>

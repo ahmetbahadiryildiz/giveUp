@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="b_sign_up">KAYIT OL</string>
+    <string name="tv_welcome">ivApp\'a Hoşgeldiniz!</string>
+    <string name="tv_username">Kullanıcı Adı:</string>
+    <string name="tv_password">Parola:</string>
+    <string name="et_username">Kullanıcı adınızı giriniz...</string>
+    <string name="et_password">Parolanızı giriniz...</string>
+    <string name="tv_name">Adınız:</string>
+    <string name="et_name">Adınızı Giriniz...</string>
+    <string name="tv_surname">Soyadınız:</string>
+    <string name="et_surname">Soyadınzı Girinz...</string>
+    <string name="tv_age">Yaşınız:</string>
+    <string name="et_age">Yaşınızı Giriniz...</string>
+    <string name="tv_profile_photo">Profil Fotoğrafı:</string>
+    <string name="b_add_photo">FOTOĞRAF EKLE</string>
+    <string name="sign_up_successfully">Kayıt Başarılı</string>
+    <string name="sign_up_error">Kullanıcı adı ve parolanızı girmeniz gerekmektedir.</string>
+    <string name="sign_in_successfully">Giriş Başarılı</string>
+    <string name="b_sign_out">ÇIKIŞ YAP</string>
+    <string name="welcome">Hoşgeldin</string>
+    <string name="tv_offer_company_name">Şirket İsmi:</string>
+    <string name="tv_show_offer_price">Teklif Tutarı:</string>
+    <string name="b_offer_accept">KABUL ET</string>
+    <string name="tv_show_usuable_coin">Kullanılabilir ivPara:</string>
+    <string name="tv_account_device">Cihazınız:</string>
+    <string name="b_add_device">Cihaz Ekle</string>
+    <string name="b_add_offer">Teklif Ekle</string>
+    <string name="et_offer_company_name">Şirketi Adını Giriniz...</string>
+    <string name="tv_offer_description">Teklif:</string>
+    <string name="et_offer">Teklifi Giriniz....</string>
+    <string name="tv_offer_price">Teklif Ücreti:</string>
+    <string name="et_offer_price">Teklif Ücretini Giriniz...</string>
+    <string name="tv_offer_code">Teklif Kodu:</string>
+    <string name="et_offer_code">Teklif Kodunu Giriniz...</string>
+    <string name="offer_added_successfully">Teklif Başarılı Bir Şekilde Eklendi</string>
+    <string name="sign_in_failed">Kullanıcı Adınızı veya Parolanızı Yanlış Girdiniz.</string>
+    <string name="sign_in_automatically">Giriş Yapılıyor. Lütfen Bekleyiniz.</string>
+    <string name="triggered">Algılandı</string>
+    <string name="b_sign_in">GİRİŞ YAP</string>
+    <string name="get_offer_successfully">Teklif kodunuz bildirim aracılığıyla gönderilmiştir</string>
+    <string name="offer_notification_header">Kod burada!</string>
+    <string name="offer_notification">Kodunuz:</string>
+    <string name="tv_offer_failed">ivParanız yetersiz</string>
+</resources>

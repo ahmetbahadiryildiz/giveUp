@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "337689235932",
+    "firebase_url": "https://greemlock-ivapp-default-rtdb.firebaseio.com",
+    "project_id": "greemlock-ivapp",
+    "storage_bucket": "greemlock-ivapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337689235932:android:0dabb846d7973fd2f7ff19",
+        "android_client_info": {
+          "package_name": "com.greemlock.ivApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337689235932-g3n24q8ibuu4ca30g01epn8jb47dcoml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgXcosYhQORDKeD8FmQtVoau1y2UFW50g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337689235932-g3n24q8ibuu4ca30g01epn8jb47dcoml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
